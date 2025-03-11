@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on lkintro</title>
+    <link>https://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on lkintro</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>书籍推荐</title>
+      <link>https://localhost:1313/posts/migrate-from-jekyll/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://localhost:1313/posts/migrate-from-jekyll/</guid>
+      <description>&lt;h2 id=&#34;-书籍推荐&#34;&gt;💻 书籍推荐&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-computer-systems-a-programmer---randal-e-bryant--david-r-ohallaron&#34;&gt;1. &lt;em&gt;Computer Systems: A Programmer&amp;rsquo;s Perspective (CSAPP)&lt;/em&gt; - Randal E. Bryant &amp;amp; David R. O&amp;rsquo;Hallaron&lt;/h3&gt;&#xA;&lt;p&gt;一本经典的计算机系统书籍，涵盖计算机体系结构、操作系统、编译器等多个领域，是深入理解计算机底层运行机制的必读之作。&lt;br&gt;&#xA;&lt;a href=&#34;https://csapp.cs.cmu.edu/&#34;&gt;阅读更多&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/0l1k2/cs-lk&#34;&gt;我做过的实验，仅供参考&lt;/a&gt;&#xA;&lt;strong&gt;ISBN:&lt;/strong&gt; 978-0134092669&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-computer-networking-a-top-down-approach---james-f-kurose--keith-w-ross&#34;&gt;2. &lt;em&gt;Computer Networking: A Top-Down Approach&lt;/em&gt; - James F. Kurose &amp;amp; Keith W. Ross&lt;/h3&gt;&#xA;&lt;p&gt;以应用层为起点，自顶向下讲解网络协议，应用层，网络层，传输层，链路层。涵盖 HTTP、TCP/IP、路由、无线网络等，适合初学者和进阶者。使用的实验工具是wireshark和在Ubuntu里面使用linux&lt;br&gt;&#xA;&lt;a href=&#34;https://wps.pearsoned.com/ecs_kurose_compnetw_8/&#34;&gt;阅读更多&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;ISBN:&lt;/strong&gt; 978-0136681557&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-数据结构与算法分析c-语言描述第二版---mark-allen-weiss&#34;&gt;3. &lt;em&gt;数据结构与算法分析：C 语言描述（第二版）&lt;/em&gt; - Mark Allen Weiss&lt;/h3&gt;&#xA;&lt;p&gt;一本深入讲解数据结构和算法分析的经典书籍，适合希望提升算法能力的程序员。涵盖链表、排序、图算法等内容，并配有 C 语言代码示例。&lt;br&gt;&#xA;&lt;a href=&#34;https://www.pearson.com/en-us/subject-catalog/p/data-structures-and-algorithm-analysis-in-c/P200000003952/9780132847377&#34;&gt;阅读更多&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;ISBN:&lt;/strong&gt; 978-0132847377&lt;/p&gt;&#xA;&lt;h2 id=&#34;-书籍汇总推荐&#34;&gt;📜 书籍汇总推荐&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34;&gt;阅读更多&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-结语&#34;&gt;📌 结语&lt;/h2&gt;&#xA;&lt;p&gt;编程之路漫长而有趣，好好学习，天天向上！📖🚀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
